@@ -9,7 +9,6 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class TC01_createCustomer {
 
-	WebDriver driver;
 	WebDriverWait wait;
 	
 	private By taskButton=By.xpath("//*[text()='Tasks']");
